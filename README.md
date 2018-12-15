@@ -1,4 +1,4 @@
-Personal Activity Tracker & Predictor using data collected from smart fitness devices
+## Personal Activity Tracker & Predictor using data collected from smart fitness devices
 =====================================================================================
 
 ### Introduction
