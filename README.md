@@ -1,5 +1,5 @@
-## Predicting daily personal activity using data from smart fitness devices
-============================================================================
+Predicting daily personal activity using data from smart fitness devices
+========================================================================
 
 ### Introduction
 
